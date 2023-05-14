@@ -1,6 +1,6 @@
 # Authorship Attribution for Neural Text Generation (Synthetically generated text detection)
 
-> Authors (crewNLP) :  Jasleen kaur, Rachna Bhatia, Charan Sai Sadla, Deepanshu Jain
+> Authors (crewNLP) :  Jasleen kaur, Rachna Bhatia, Charan Sai Sadla, Deepanshu
 
 <br>
 
